@@ -5,7 +5,7 @@ from typing import Tuple
 
 
 def index_range(page: int, page_size: int) -> tuple[int, int]:
-    """ 
+    """
     Calcs start and end index for pagination
 
     Args:
